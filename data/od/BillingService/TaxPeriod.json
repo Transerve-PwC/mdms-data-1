@@ -46,7 +46,7 @@
       "fromDate": 1522540800000,
       "toDate": 1554076799000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
+      "service": "NewTL",
       "code": "TLAN2018",
       "financialYear": "2018-19"
     },
@@ -54,7 +54,7 @@
       "fromDate": 1491004800000,
       "toDate": 1522540798000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
+      "service": "NewTL",
       "code": "TLAN2017",
       "financialYear": "2017-18"
     },
@@ -62,7 +62,7 @@
       "fromDate": 1459468800000,
       "toDate": 1491004799000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
+      "service": "NewTL",
       "code": "TLAN2016",
       "financialYear": "2016-17"
     },
@@ -70,7 +70,7 @@
       "fromDate": 1554076799000,
       "toDate": 1585679399000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
+      "service": "NewTL",
       "code": "TLAN2019",
       "financialYear": "2019-20"
     },
@@ -78,7 +78,7 @@
       "fromDate": 1585679399000,
       "toDate": 1617172199000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
+      "service": "NewTL",
       "code": "TLAN2020",
       "financialYear": "2020-21"
     },
@@ -390,7 +390,7 @@
       "fromDate": 1585679399000,
       "toDate": 1617172199000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
+      "service": "NewTL",
       "code": "TLRENEWAL2020",
       "financialYear": "2020-21"
     },
@@ -398,7 +398,7 @@
       "fromDate": 1554076799000,
       "toDate": 1585679399000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
+      "service": "NewTL",
       "code": "TLRENEWAL2019",
       "financialYear": "2019-20"
     },
@@ -406,7 +406,7 @@
       "fromDate": 1522540800000,
       "toDate": 1554076799000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
+      "service": "NewTL",
       "code": "TLRENEWAL2018",
       "financialYear": "2018-19"
     },
@@ -414,7 +414,7 @@
       "fromDate": 1491004800000,
       "toDate": 1522540798000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
+      "service": "NewTL",
       "code": "TLRENEWAL2017",
       "financialYear": "2017-18"
     },
@@ -422,7 +422,7 @@
       "fromDate": 1459468800000,
       "toDate": 1491004799000,
       "periodCycle": "ANNUAL",
-      "service": "TL",
+      "service": "NewTL",
       "code": "TLRENEWAL2016",
       "financialYear": "2016-17"
     },
